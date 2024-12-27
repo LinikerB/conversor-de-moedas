@@ -22,7 +22,7 @@ O projeto suporta a conversão de valores entre as seguintes moedas:
 
 ## Tecnologias Utilizadas
 
-- **Java JDK**: versão 17.
+- **Java JDK**: versão 21.
 - **IDE**: IntelliJ IDEA.
 - **Paradigma de Orientação a Objetos (POO)**.
 - **ExchangeRate-API**: Para obtenção das taxas de câmbio em tempo real.
